@@ -54,6 +54,8 @@ python api_server.py
 
 ## API 接口
 
+API接口在 project/config/setting.py 中进行更改。
+
 ### 1. 健康检查
 - 端点：`GET /`
 - 描述：检查API服务是否正常运行
