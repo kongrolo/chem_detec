@@ -41,7 +41,7 @@ LM_CONFIG = {
     "max_tokens": 512,
     
     # API密钥配置
-    "api_key": "sk-xpsqvsemifkjgmyhmirdjrgmlienuruptkzpeefhuktffmqt",  # 需要替换为实际的API密钥
+    "api_key": "Enter Your Key",  # 需要替换为实际的API密钥
     
     # 流式传输配置
     "stream": False
